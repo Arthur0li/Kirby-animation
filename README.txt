@@ -1,4 +1,4 @@
-Esse foi um dos primeiros projetos que eu fiz, foi produzido em 2022 quando comecei a ver HTML/CSS no meu curso. O intuito era treinar animação no HTML/CSS. A ideia era que isso tivesse diversas animações, mas, como o projeto foi esqucido, isso nunca sse realizou, talvez eu complete um dia.
+Esse foi um dos primeiros projetos que eu fiz, foi produzido em 2022 quando comecei a ver HTML/CSS no meu curso. O intuito era treinar animação no HTML/CSS. A ideia era que isso tivesse diversas animações, mas, como o projeto foi esquecido, isso nunca se realizou, talvez eu complete um dia.
 
 -------
 
