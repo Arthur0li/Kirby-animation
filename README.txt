@@ -1,0 +1,1 @@
+Esse foi um dos primeiros projetos que eu fiz. O intuito era treinar animação no HTML/CSS.
